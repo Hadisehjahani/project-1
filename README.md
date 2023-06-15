@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.veed.io/view/759d4e2f-b713-4ff3-9b06-8bdae60a44b6?panel=share' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Hadisehjahani/project-1/blob/master/Screen%20Recording%20-%20June%2015%2C%202023.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with VEED.IO  
